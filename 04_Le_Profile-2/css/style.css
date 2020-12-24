@@ -1,0 +1,12 @@
+h1, h2 {
+	color: #ddf0e7;
+	background: #0d182f;
+	font-family: sans-serif;
+	text-transform: uppercase;
+	letter-spacing: .15em;
+	font-weight: 400;
+}
+h1 {
+	font-size: 40pt;
+
+}
